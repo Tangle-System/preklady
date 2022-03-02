@@ -5,6 +5,7 @@ on:
 
 name: Nasazovačka
 
+
 jobs:
   web-deploy:
     name: 🎉 Deploy
