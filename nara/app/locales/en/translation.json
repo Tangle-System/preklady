@@ -1,5 +1,5 @@
 {
-  " by se měl objevit do 5 minut": " by se měl objevit do 5 minut.",
+  " by se měl objevit do 5 minut": " should arrive in next 5 minutes",
   "Aktualizace dokončena": "Update completed",
   "Aktualizace selhala": "Update failed",
   "Aktualizovat": "Update",
@@ -90,8 +90,8 @@
   "Spárovaná zařízení": "Paired devices",
   "Spojení selhalo": "Connection failed",
   "Stát se testerem verze": "Become a new version tester",
-  "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti": "Press the "Remove" button to remove the lamp from your Home Account. The lamp will be visible to users outside your Home Account. You can add the lamp with "Add lamp" button into the new Home Account.",
-  "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny": "Press the "Hide NARA" button to remove the lamp from your application. The lamp will still be part of your Home Account and can be controlled via the already created groups.",
+  "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti": "Press the \"Remove\" button to remove the lamp from your Home Account. The lamp will be visible to users outside your Home Account. You can add the lamp with \"Add lamp\" button into the new Home Account.",
+  "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny": "Press the \"Hide NARA\" button to remove the lamp from your application. The lamp will still be part of your Home Account and can be controlled via the already created groups.",
   "Successfully upgraded to ": "Successfully upgraded to ",
   "Synchronizace lamp": "Lamp synchronisation",
   "Sytost": "Saturation",
