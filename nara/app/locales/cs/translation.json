@@ -148,5 +148,23 @@
   "Zkuste to prosím znovu": "Zkuste to prosím znovu.",
   "Změnit heslo": "Změnit heslo",
   "Zpět": "Zpět",
-  "Zrušit": "Zrušit"
+  "Zrušit": "Zrušit",
+  "Vlastní": "Vlastní",
+  "effect": {
+    "Dešťové období": "Dešťové období",
+    "Den a noc": "Den a noc",
+    "Svátek lampiónů": "Svátek lampiónů",
+    "Rešovské vodopády": "Rešovské vodopády",
+    "Boubínský prales": "Boubínský prales",
+    "Krkonoše": "Krkonoše",
+    "Západ slunce": "Západ slunce",
+    "Lávová Lampa": "Lávová Lampa",
+    "Noční Obloha": "Noční Obloha",
+    "Duhová animace": "Duhová animace",
+    "Tangle": "Tangle",
+    "Příroda": "Příroda",
+    "Modrá obloha": "Modrá obloha",
+    "Růžový panter": "Růžový panter",
+    "Policejní maják": "Policejní maják"
+  }
 }

@@ -149,5 +149,23 @@
   "Zkuste to prosím znovu": "Please, try again later",
   "Změnit heslo": "Change password",
   "Zpět": "Back",
-  "Zrušit": "Cancel"
+  "Zrušit": "Cancel",
+  "Vlastní": "Custom",
+  "effect": {
+    "Dešťové období": "Rainy day",
+    "Den a noc": "Day & night",
+    "Svátek lampiónů": "lantern holiday",
+    "Rešovské vodopády": "Rešov waterfalls",
+    "Boubínský prales": "Boubín forest",
+    "Krkonoše": "Krkonoše",
+    "Západ slunce": "Giant Mountains",
+    "Lávová Lampa": "Lava lamp",
+    "Noční Obloha": "Night Sky",
+    "Duhová animace": "Rainbow",
+    "Tangle": "Tangle",
+    "Příroda": "Nature",
+    "Modrá obloha": "Blue sky",
+    "Růžový panter": "Pink Panter",
+    "Policejní maják": "Police beacon"
+  }
 }
