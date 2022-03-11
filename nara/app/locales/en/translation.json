@@ -183,5 +183,5 @@
   "Změnit heslo": "Change password",
   "Zpět": "Back",
   "Zrušit": "Cancel",
-  "Zvolte časový interval, po kterém se NARA automaticky vypne": "Select the time interval after which NARA will automatically shut down"
+  "Zvolte časový interval minuty:sekundy, po kterém se NARA automaticky vypne": "Select the time interval minutes:seconds after which NARA will automatically shut down"
 }
