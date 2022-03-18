@@ -155,7 +155,6 @@
   "Vytvořit účet": "Create account",
   "Vytvořte si heslo": "Create your password",
   "vývojářský mód": "developer mode",
-  "Vyvořit účet": "Create a password",
   "Vyžadováno připojení": "Connection required",
   "Zadaná hesla se neshodují": "Passwords don't match",
   "Zadejte heslo": "Enter your password",
@@ -183,5 +182,11 @@
   "Změnit heslo": "Change password",
   "Zpět": "Back",
   "Zrušit": "Cancel",
-  "Zvolte časový interval minuty:sekundy, po kterém se NARA automaticky vypne": "Select the time interval minutes:seconds after which NARA will automatically shut down"
+  "Zvolte časový interval minuty:sekundy, po kterém se NARA automaticky vypne": "Select the time interval minutes:seconds after which NARA will automatically shut down",
+  "loading": {
+    "Odstraňuji": "Deleting",
+    "Probíhá načítání": "Loading in progress",
+    "Vytvářím skupinu": "Creating group",
+    "Vytvářím účet": "Creating account"
+  }
 }
