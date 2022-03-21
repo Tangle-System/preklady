@@ -190,5 +190,7 @@
     "Vytvářím účet": "Creating account",
     "Párování": "Pairing"
   },
-  "Time left:": "Time left:"
+  "Neplatná hodnota": "Invalid value",
+  "Time left:": "Time left:",
+  "Zadejte validní hodnotu, např: 5m 10s": "Enter valid value eg. 5m 10s"
 }
