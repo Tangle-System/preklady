@@ -182,7 +182,7 @@
   "Změnit heslo": "Change password",
   "Zpět": "Back",
   "Zrušit": "Cancel",
-  "Zvolte časový interval minuty:sekundy, po kterém se NARA automaticky vypne": "Select the time interval minutes:seconds after which NARA will automatically shut down",
+  "Zvolte časový interval ve formátu 5m 10s, po kterém se NARA automaticky vypne": "Select the time interval in format 5m 10s after which NARA will automatically shut down",
   "loading": {
     "Odstraňuji": "Deleting",
     "Probíhá načítání": "Loading in progress",
