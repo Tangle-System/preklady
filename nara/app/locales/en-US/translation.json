@@ -192,5 +192,6 @@
   },
   "Neplatná hodnota": "Invalid value",
   "Time left:": "Time left:",
-  "Zadejte validní hodnotu, např: 5m 10s": "Enter valid value eg. 5m 10s"
+  "Zadejte validní hodnotu, např: 5m 10s": "Enter valid value eg. 5m 10s",
+  "Odpojit od lampy": "Disconnect from lamp"
 }
