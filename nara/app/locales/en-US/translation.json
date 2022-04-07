@@ -193,5 +193,8 @@
   "Neplatná hodnota": "Invalid value",
   "Time left:": "Time left:",
   "Zadejte validní hodnotu, např: 5m 10s": "Enter valid value eg. 5m 10s",
-  "Odpojit od lampy": "Disconnect from lamp"
+  "Odpojit od lampy": "Disconnect from lamp",
+  "Nastala neznámá chyba": "Unknown error occured",
+  "Zkontrolujte email domácnosti a zkuste to znovu.": "Check the Home Account email and try again.",
+  "Účet pro tento mail neexistuje": "Account for this email doesn't exist"
 }
