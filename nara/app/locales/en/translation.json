@@ -200,5 +200,7 @@
   "Odpojit od lampy": "Disconnect from lamp",
   "Nastala neznámá chyba": "Unknown error occured",
   "Zkontrolujte email domácnosti a zkuste to znovu.": "Check the Home Account email and try again.",
-  "Účet pro tento mail neexistuje": "Account for this email doesn't exist"
+  "Účet pro tento mail neexistuje": "Account for this email doesn't exist",
+  "Zvolte časový úsek, během kterého se má efekt přepínat": "Zvolte časový úsek, během kterého se má efekt přepínat.",
+  "Přepnout": "Přepnout"
 }
