@@ -202,5 +202,25 @@
   "Zkontrolujte email domácnosti a zkuste to znovu.": "Zkontrolujte email domácnosti a zkuste to znovu.",
   "Účet pro tento mail neexistuje": "Účet pro tento mail neexistuje",
   "Zvolte časový úsek, během kterého se má efekt přepínat": "Zvolte časový úsek, během kterého se má efekt přepínat.",
-  "Přepnout": "Přepnout"
+  "Přepnout": "Přepnout",
+
+  "Tovární nastavení lampy": "Tovární nastavení lampy",
+  "Uvedení lampy do továrního nastavení se nezdařilo. Chyba:": "Uvedení lampy do továrního nastavení se nezdařilo. Chyba:",
+  "Něco se nepovedlo.": "Něco se nepovedlo.",
+  "Tato aplikace nepodporuje tovární nastavení svítidel na zakázku.": "Tato aplikace nepodporuje tovární nastavení svítidel na zakázku.",
+  "Prosím kontaktujte nás!": "Prosím kontaktujte nás!",
+  "Tovární nastavení NARY Alpha se nezdařilo. Chyba:": "Tovární nastavení NARY Alpha se nezdařilo. Chyba:",
+  "Tovární nastavení NARY Alpha proběhlo úspěšně.": "Tovární nastavení NARY Alpha proběhlo úspěšně.",
+  "A je to!": "A je to!",
+  "Tovární nastavení NARY se nezdařilo, Chyba:": "Tovární nastavení NARY se nezdařilo, Chyba:",
+  "Tovární nastavení NARY proběhlo úspěšně.": "Tovární nastavení NARY proběhlo úspěšně.",
+  "Vybrat model lampy": "Vybrat model lampy",
+  "Jaký jste připojili model lampy?": "Jaký jste připojili model lampy?",
+  "Svítidlo na zakázku": "Svítidlo na zakázku",
+  "NARA s dotykovým tlačítkem": "NARA s dotykovým tlačítkem",
+  "NARA s nášlapným senzorem":"NARA s nášlapným senzorem",
+  "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.",
+  "Připojte lampu": "Připojte lampu",
+  "Opravdu chcete uvést NARU do továrního nastavení?": "Opravdu chcete uvést NARU do továrního nastavení?"
+
 }

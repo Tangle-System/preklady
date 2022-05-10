@@ -202,5 +202,25 @@
   "Zkontrolujte email domácnosti a zkuste to znovu.": "Check the Home Account email and try again.",
   "Účet pro tento mail neexistuje": "Account for this email doesn't exist",
   "Zvolte časový úsek, během kterého se má efekt přepínat": "Zvolte časový úsek, během kterého se má efekt přepínat.",
-  "Přepnout": "Přepnout"
+  "Přepnout": "Přepnout",
+
+  "Tovární nastavení lampy": "Lamp factory settings",
+  "Uvedení lampy do továrního nastavení se nezdařilo. Chyba:": "The lamp failed to reset to factory settings. Error:",
+  "Něco se nepovedlo.": "Something went wrong.",
+  "Tato aplikace nepodporuje tovární nastavení svítidel na zakázku.": "This application does not support the factory settings of custom luminaires.",
+  "Prosím kontaktujte nás!": "Please contact us!",
+  "Tovární nastavení NARY Alpha se nezdařilo. Chyba:": "NARY Alpha factory setting failed. Error:",
+  "Tovární nastavení NARY Alpha proběhlo úspěšně.": "The factory setting of NARA Alpha was successful.",
+  "A je to!": "And it is done!",
+  "Tovární nastavení NARY se nezdařilo, Chyba:": "NARA factory setting failed, Error:",
+  "Tovární nastavení NARY proběhlo úspěšně.": "The factory setting of NARA was successful.",
+  "Vybrat model lampy": "Select the lamp model",
+  "Jaký jste připojili model lampy?": "What lamp model did you connect?",
+  "Svítidlo na zakázku": "Custom lamp",
+  "NARA s dotykovým tlačítkem": "NARA with touch button",
+  "NARA s nášlapným senzorem": "NARA with foot sensor",
+  "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "In the next step, connect the NARA you want to reset to factory settings.",
+  "Připojte lampu": "Connect the lamp",
+  "Opravdu chcete uvést NARU do továrního nastavení?": "Are you sure you want to reset NARA?"
+
 }
