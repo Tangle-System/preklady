@@ -204,6 +204,7 @@
   "Zvolte časový úsek, během kterého se má efekt přepínat": "Zvolte časový úsek, během kterého se má efekt přepínat.",
   "Přepnout": "Přepnout",
 
+
   "Tovární nastavení lampy": "Tovární nastavení lampy",
   "Uvedení lampy do továrního nastavení se nezdařilo. Chyba:": "Uvedení lampy do továrního nastavení se nezdařilo. Chyba:",
   "Něco se nepovedlo.": "Něco se nepovedlo.",
@@ -222,5 +223,7 @@
   "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.",
   "Připojte lampu": "Připojte lampu",
   "Opravdu chcete uvést NARU do továrního nastavení?": "Opravdu chcete uvést NARU do továrního nastavení?"
+
+
 
 }
