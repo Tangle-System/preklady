@@ -217,8 +217,8 @@
   "Vybrat model lampy": "Select the lamp model",
   "Jaký jste připojili model lampy?": "What lamp model did you connect?",
   "Svítidlo na zakázku": "Custom lamp",
-  "NARA s dotykovým tlačítkem": "{{name}} with touch button",
-  "NARA s nášlapným senzorem": "{{name}} with foot sensor",
+  "S dotykovým tlačítkem": "Lamp with touch button",
+  "S nášlapným senzorem": "Lamp with foot sensor",
   "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "In the next step, connect the {{name}} you want to reset to factory settings.",
   "Připojte lampu": "Connect the lamp",
   "Opravdu chcete uvést NARU do továrního nastavení?": "Are you sure you want to reset {{name}}?"
