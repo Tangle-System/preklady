@@ -221,5 +221,5 @@
   "S nášlapným senzorem": "Lamp with foot sensor",
   "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "In the next step, connect the {{name}} you want to reset to factory settings.",
   "Připojte lampu": "Connect the lamp",
-  "Opravdu chcete uvést NARU do továrního nastavení?": "Are you sure you want to reset {{name}}?"
+  "Opravdu chcete uvést NARU do továrního nastavení? Lampa zapomene veškerá nastavení kromě připojené domácnosti.": "Are you sure you want to reset NARA? The lamp forgets all settings except the connected household."
 }
