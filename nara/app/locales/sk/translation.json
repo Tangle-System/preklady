@@ -58,7 +58,7 @@
   "Načíst": "Načítať",
   "Nahlásit chybu": "Nahlásiť chybu",
   "např Novákovi": "napr. Novákovi",
-  "NARU můžete skrýt v aplikaci nebo odstranit ze seznamu zařízení ve vaší domácnosti": "NARU môžete skryť v aplikácii alebo odstrániť zo zoznamu zariadení vo vašej domácnosti.",
+  "NARU můžete skrýt v aplikaci nebo odstranit ze seznamu zařízení ve vaší domácnosti.": "NARU môžete skryť v aplikácii alebo odstrániť zo zoznamu zariadení vo vašej domácnosti.",
   "Nastavení počtu diod": "Nastavení počtu diod",
   "Nastavujte si počet diod pouze pokud máte Naru upravenou na míru, nebo chcete rozsvítit pouze část": "Nastavujte si počet diód iba ak máte Naru upravenú na mieru, alebo chcete rozsvietiť iba časť.",
   "Návod k použití": "Návod na použitie",
@@ -81,7 +81,7 @@
   "Odložit vypnutí (efekt)": "Odložiť vypnutie",
   "Odstín": "Odtieň",
   "Odstranění lampy": "Odstránenie lampy",
-  "Opravdu chcete uvést aplikaci do továrního nastavení? Tímto krokem odstraníte všechna uložená data": "Naozaj chcete uviesť aplikáciu do továrenského nastavenia? Týmto krokom odstránite všetky uložené dáta.",
+  "Opravdu chcete uvést aplikaci do továrního nastavení? Tímto krokem odstraníte všechna uložená data.": "Naozaj chcete uviesť aplikáciu do továrenského nastavenia? Týmto krokom odstránite všetky uložené dáta.",
   "Opravdu se chcete odhlásit?": "Naozaj sa chcete odhlásiť?",
   "Ostatní": "Ostatné",
   "Otevři aplikaci": "Otvor aplikáciu",
@@ -104,7 +104,7 @@
   "prihlaste se k domacnosti nebo vytvorte": "Aby sme sa mohli pustiť do ovládania vašich lámp, prihláste sa k účtu vašej domácnosti. Pokiaľ ho ešte nemáte, počas minúty ho vytvorte.",
   "Připojit se k NAŘE": "Pripojiť sa k NARE",
   "Připojit zařízení": "Pripojiť zariadenie",
-  "Pro odebrání lampy z vaší domácnosti k ní musíte být připojen/a, Ujistěte se, že je lampa zapnutá a nacházíte se v její blízkosti": "Pre odobratie lampy z vašej domácnosti k nej musíte byť pripojený/a, Uistite sa, že je lampa zapnutá a nachádzate sa v jej blízkosti.",
+  "Pro odebrání lampy z vaší domácnosti k ní musíte být připojen/a, Ujistěte se, že je lampa zapnutá a nacházíte se v její blízkosti.": "Pre odobratie lampy z vašej domácnosti k nej musíte byť pripojený/a, Uistite sa, že je lampa zapnutá a nachádzate sa v jej blízkosti.",
   "Pro ovládání vašich zařízení musíte být přihlášen/a": "Pre ovládanie vašich zariadení musíte byť prihlásený/á.",
   "Pro vaši lampu je připravena nová verze aplikace, pojďte s námi prozkoumat novinky!": "Pre vašu lampu je pripravená nová verzia aplikácie, poďte s nami preskúmať novinky!",
   "Probíhá načítání skladby": "Prebieha načítanie skladby",
@@ -125,8 +125,8 @@
   "Spojení selhalo": "Spojenie zlyhalo",
   "Spustit": "Spustiť",
   "Stát se testerem verze": "Stať sa testerom verzie",
-  "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti": "Stlačením tlačidla Odobrať odstránite lampu z vašej domácnosti, lampa bude viditeľná aj pre užívateľov mimo vašej domácnosti a pôjde ju pridať tlačidlom Pridať Lampu do novej domácnosti.",
-  "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny": "Stlačením tlačidla “Skryť NARU”  odoberiete lampu z vašej aplikácie, lampa stále bude súčasťou domácnosti a bude možné ju ovládať cez už vytvorené skupiny.",
+  "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti.": "Stlačením tlačidla Odobrať odstránite lampu z vašej domácnosti, lampa bude viditeľná aj pre užívateľov mimo vašej domácnosti a pôjde ju pridať tlačidlom Pridať Lampu do novej domácnosti.",
+  "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny.": "Stlačením tlačidla “Skryť NARU”  odoberiete lampu z vašej aplikácie, lampa stále bude súčasťou domácnosti a bude možné ju ovládať cez už vytvorené skupiny.",
   "Successfully upgraded to ": "Successfully upgraded to ",
   "Synchronizace lamp": "Synchronizácia lámp",
   "Sytost": "Sýtosť",
@@ -221,5 +221,14 @@
   "S nášlapným senzorem": "S nášľapným senzorom",
   "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "V nasledujúcom kroku pripojte NARU, ktorú chcete uviesť do továrenského nastavenia.",
   "Připojte lampu": "Pripojte lampu",
-  "Opravdu chcete uvést NARU do továrního nastavení? Lampa zapomene veškerá nastavení kromě připojené domácnosti.": "Naozaj chcete uviesť NARU do továrenského nastavenia? Lampa zabudne všetky nastavenia okrem pripojenej domácnosti."
+  "Opravdu chcete uvést NARU do továrního nastavení? Lampa zapomene veškerá nastavení kromě připojené domácnosti.": "Naozaj chcete uviesť NARU do továrenského nastavenia? Lampa zabudne všetky nastavenia okrem pripojenej domácnosti.",
+
+
+  "Zapamatovat stav lamp": "Zapamätať stav lámp",
+  "Potvrzením naběhnout po příštím restartu lampy do stavu jako jsou nyní.": "Potvrdením nabehnúť po budúcom reštarte lampy do stavu ako sú teraz.",
+  "Chcete uložit stav lamp?": "Chcete uložiť stav lámp?",
+  "Lampy po restartu naběhnou do stejného stavu jako jsou nyní.": "Lampy po reštarte nabehnú do rovnakého stavu ako sú teraz.",
+  "Stav lamp uložen": "Stav lámp uložený"
+
+  
 }

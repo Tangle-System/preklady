@@ -58,7 +58,7 @@
   "Načíst": "Load",
   "Nahlásit chybu": "Report a bug",
   "např Novákovi": "e.g. the Smiths",
-  "NARU můžete skrýt v aplikaci nebo odstranit ze seznamu zařízení ve vaší domácnosti": "You can hide {{name}} in the app or remove it from the list of devices in your Home Account",
+  "NARU můžete skrýt v aplikaci nebo odstranit ze seznamu zařízení ve vaší domácnosti.": "You can hide {{name}} in the app or remove it from the list of devices in your Home Account",
   "Nastavení počtu diod": "Adjusting the number of LED",
   "Nastavujte si počet diod pouze pokud máte Naru upravenou na míru, nebo chcete rozsvítit pouze část": "Adjust the number of LED only if you have a customized {{name}} or if you want to light a part of it.",
   "Návod k použití": "Instructions for use",
@@ -81,7 +81,7 @@
   "Odložit vypnutí (efekt)": "Delayed turn off",
   "Odstín": "Tint",
   "Odstranění lampy": "Removing the lamp",
-  "Opravdu chcete uvést aplikaci do továrního nastavení? Tímto krokem odstraníte všechna uložená data": "Do you really want to reset the app to default settings? This step deletes all saved data.",
+  "Opravdu chcete uvést aplikaci do továrního nastavení? Tímto krokem odstraníte všechna uložená data.": "Do you really want to reset the app to default settings? This step deletes all saved data.",
   "Opravdu se chcete odhlásit?": "Do you really want to log out?",
   "Ostatní": "Others",
   "Otevři aplikaci": "Open the app",
@@ -104,7 +104,7 @@
   "prihlaste se k domacnosti nebo vytvorte": "To get started controlling your lamps, log in to your Home Account. If you don't already have one, create it in a minute.",
   "Připojit se k NAŘE": "Connect {{name}}",
   "Připojit zařízení": "Connect device",
-  "Pro odebrání lampy z vaší domácnosti k ní musíte být připojen/a, Ujistěte se, že je lampa zapnutá a nacházíte se v její blízkosti": "To remove the lamp from your Home Account you must be connected. Make sure the lamp is turned on and placed nearby.",
+  "Pro odebrání lampy z vaší domácnosti k ní musíte být připojen/a, Ujistěte se, že je lampa zapnutá a nacházíte se v její blízkosti.": "To remove the lamp from your Home Account you must be connected. Make sure the lamp is turned on and placed nearby.",
   "Pro ovládání vašich zařízení musíte být přihlášen/a": "You must be logged in to control your devices.",
   "Pro vaši lampu je připravena nová verze aplikace, pojďte s námi prozkoumat novinky!": "A new version of the app is now available. Come explore the new features with us!",
   "Probíhá načítání skladby": "A song is loading",
@@ -125,8 +125,8 @@
   "Spojení selhalo": "Connection failed",
   "Spustit": "Start",
   "Stát se testerem verze": "Become a new version tester",
-  "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti": "Press the \"Remove\" button to remove the lamp from your Home Account. The lamp will be visible to users outside your Home Account. You can add the lamp with \"Add lamp\" button into the new Home Account.",
-  "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny": "Press the \"Hide {{name}}\" button to remove the lamp from your application. The lamp will still be part of your Home Account and can be controlled via the already created groups.",
+  "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti.": "Press the \"Remove\" button to remove the lamp from your Home Account. The lamp will be visible to users outside your Home Account. You can add the lamp with \"Add lamp\" button into the new Home Account.",
+  "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny.": "Press the \"Hide {{name}}\" button to remove the lamp from your application. The lamp will still be part of your Home Account and can be controlled via the already created groups.",
   "Successfully upgraded to ": "Successfully upgraded to ",
   "Synchronizace lamp": "Lamp synchronisation",
   "Sytost": "Saturation",
@@ -221,5 +221,13 @@
   "S nášlapným senzorem": "Lamp with foot sensor",
   "V následujícím kroku připojte NARU, kterou chcete uvést do továrního nastavení.": "In the next step, connect the {{name}} you want to reset to factory settings.",
   "Připojte lampu": "Connect the lamp",
-  "Opravdu chcete uvést NARU do továrního nastavení? Lampa zapomene veškerá nastavení kromě připojené domácnosti.": "Are you sure you want to reset NARA? The lamp forgets all settings except the connected household."
+  "Opravdu chcete uvést NARU do továrního nastavení? Lampa zapomene veškerá nastavení kromě připojené domácnosti.": "Are you sure you want to reset NARA? The lamp forgets all settings except the connected household.",
+
+
+  "Zapamatovat stav lamp": "Remember lamp status",
+  "Potvrzením naběhnout po příštím restartu lampy do stavu jako jsou nyní.": "By confirming, the next time the lamps are restarted, they will return to the state they are in now.",
+  "Chcete uložit stav lamp?": "Do you want to save the lamp status?",
+  "Lampy po restartu naběhnou do stejného stavu jako jsou nyní.": "After the restart, the lamps will return to the same state as they are now.",
+  "Stav lamp uložen": "Lamp status saved"
+
 }
