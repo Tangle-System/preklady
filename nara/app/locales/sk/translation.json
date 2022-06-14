@@ -228,7 +228,9 @@
   "Potvrzením naběhnout po příštím restartu lampy do stavu jako jsou nyní.": "Potvrdením nabehnúť po budúcom reštarte lampy do stavu ako sú teraz.",
   "Chcete uložit stav lamp?": "Chcete uložiť stav lámp?",
   "Lampy po restartu naběhnou do stejného stavu jako jsou nyní.": "Lampy po reštarte nabehnú do rovnakého stavu ako sú teraz.",
-  "Stav lamp uložen": "Stav lámp uložený"
-
+  "Stav lamp uložen": "Stav lámp uložený",
+  "Start": "Start",
+  "Stop": "Stop",
+  "Citlivost mikrofonu": "Citlivosť mikrofónu"
   
 }

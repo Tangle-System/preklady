@@ -124,6 +124,7 @@
   "Špatné heslo": "Bad password",
   "Spojení selhalo": "Connection failed",
   "Spustit": "Start",
+  "Start": "Start",
   "Stát se testerem verze": "Become a new version tester",
   "Stisknutím tlačítka “Odebrat” odstraníte lampu z vaší domácnosti, lampa bude viditelná i pro uživatele mimo vaši domácnost a půjde ji přidat tlačítkem Přidat Lampu do nové domácnosti.": "Press the \"Remove\" button to remove the lamp from your Home Account. The lamp will be visible to users outside your Home Account. You can add the lamp with \"Add lamp\" button into the new Home Account.",
   "Stisknutím tlačítka “Skrýt NARU” odeberete lampu z vaší aplikace, lampa stále bude součástí domácnosti a bude možné ji ovládat přes již vytvořené skupiny.": "Press the \"Hide {{name}}\" button to remove the lamp from your application. The lamp will still be part of your Home Account and can be controlled via the already created groups.",
@@ -228,7 +229,7 @@
   "Potvrzením naběhnout po příštím restartu lampy do stavu jako jsou nyní.": "By confirming, the next time the lamps are restarted, they will return to the state they are in now.",
   "Chcete uložit stav lamp?": "Do you want to save the lamp status?",
   "Lampy po restartu naběhnou do stejného stavu jako jsou nyní.": "After the restart, the lamps will return to the same state as they are now.",
-  "Stav lamp uložen": "Lamp status saved"
-
-
+  "Stav lamp uložen": "Lamp status saved",
+  "Stop": "Stop",
+  "Citlivost mikrofonu": "Microphone sensitivity"
 }
