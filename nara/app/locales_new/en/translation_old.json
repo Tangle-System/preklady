@@ -1,0 +1,17 @@
+{
+  " by se měl objevit do 5 minut": " should arrive in next 5 minutes",
+  "e-mail byl odeslán před pár minutami": "the e-mail was sent a few minutes ago.",
+  "Nastavení počtu diod": "Adjusting the number of LED",
+  "Nastavujte si počet diod pouze pokud máte Naru upravenou na míru, nebo chcete rozsvítit pouze část": "Adjust the number of LED only if you have a customized {{name}} or if you want to light a part of it.",
+  "Pokud chcete využívat tuto funkci, je potřeba mít spárováno více NARA zařízení": "Multiple {{name}} devices must be paired to use this feature",
+  "Potvrzením vás přesměrujeme na aktualizátor lampy na starou verzi": "Confirmation will redirect you to the downgrade to an old version.",
+  "Před provedením změny hesla je třeba se znovu přihlásit": "Before the pasword will be changed, you have to log in.",
+  "Rozsviťte nejdříve lampu, ať neodpočítáváte zhasínání tmy": "Light up the lamp first so you don't count down the darkness",
+  "Tento email je již použit": "This e-mail is already used.",
+  "Toto není NARA!": "Connected device is not {{name}}!",
+  "Zadejte počet diod": "Enter the number of LEDs",
+  "Zkontrolujte název domácnosti a zkuste to znovu": "Check the Home Account name and try again.",
+  "Zkontrolujte zda jste zadali správný název domácnosti a zkuste to znovu": "Check if the Home Account name is correct and try again",
+  "Zkuste to prosím znovu": "Please, try again later",
+  "Zvolte časový úsek, během kterého se má efekt přepínat": "Zvolte časový úsek, během kterého se má efekt přepínat."
+}
