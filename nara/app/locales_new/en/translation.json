@@ -131,7 +131,7 @@
   "Pojďme společně vyzkoušet, co je nového": "Let's try what's new together",
   "Pojmenujte svoji lampu": "Pojmenujte svoji lampu",
   "Pokročilé": "Advanced",
-  "Pokud chcete využívat tuto funkci, je potřeba mít spárováno více NARA zařízení.": "Pokud chcete využívat tuto funkci, je potřeba mít spárováno více NARA zařízení.",
+  "Pokud chcete využívat tuto funkci, je potřeba mít spárováno více NARA zařízení.": "If you want to use this feature, you need to have more {{name}} devices paired.",
   "Poptat novou funkci": "Ask for a new feature",
   "Postupné zhasínání": "Gradual dimming",
   "Potvrdit": "Potvrdit",
@@ -142,7 +142,7 @@
   "Později": "Later",
   "Pozor!": "Warning!",
   "Před provedením změny hesla je třeba se znovu přihlásit.": "Před provedením změny hesla je třeba se znovu přihlásit.",
-  "Přepnout": "Přepnout",
+  "Přepnout": "Toggle Effect",
   "Přidání se nezdařilo": "Přidání se nezdařilo",
   "Přidat zařízení": "Add another device",
   "Přidělte ID svému zařízení": "Přidělte ID svému zařízení",
@@ -292,5 +292,5 @@
   "Zpětná vazba": "Zpětná vazba",
   "Zrušit": "Cancel",
   "Zvolte časový interval ve formátu 5m 10s, po kterém se NARA automaticky vypne": "Select the time interval in format 5m 10s after which {{name}} will automatically shut down",
-  "Zvolte časový úsek, během kterého se má efekt přepínat.": "Zvolte časový úsek, během kterého se má efekt přepínat."
+  "Zvolte časový úsek, během kterého se má efekt přepínat.": "Select the time interval during which the effect should be switched."
 }
